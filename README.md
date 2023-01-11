@@ -1,6 +1,6 @@
+![A Passionate Software Developer from India](https://media.licdn.com/dms/image/C4D16AQH6acaXf2-Srw/profile-displaybackgroundimage-shrink_350_1400/0/1629284070126?e=1678924800&v=beta&t=baHer4haw8A7UbfPDvsLpafwZS1EcbgDw47tvqhnjgc)
 ### Hi there 👋, I'm Prathmesh Kasar
 #### A Passionate Software Developer from India
-![A Passionate Software Developer from India](https://media.licdn.com/dms/image/C4D16AQH6acaXf2-Srw/profile-displaybackgroundimage-shrink_350_1400/0/1629284070126?e=1678924800&v=beta&t=baHer4haw8A7UbfPDvsLpafwZS1EcbgDw47tvqhnjgc)
 
 - I am Prathmesh Kasar. I am currently pursuing B-Tech computer science, Final year in R C Patel Institute Of Technology.
 - I am competitive programming Enthusiast, computer programmer with avid interest in Data Structures, Algorithms and Optimization and a quick learner who loves problem solving, web development and always willing to learn and grow more.
