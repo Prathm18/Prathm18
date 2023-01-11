@@ -1,28 +1,35 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Kasar</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathm18&label=Profile%20views&color=0e75b6&style=flat" alt="prathm18" /> </p>
+### Hi there 👋, I'm Prathmesh Kasar
+#### A Passionate Software Developer from India
+![A Passionate Software Developer from India](https://media.licdn.com/dms/image/C4D16AQH6acaXf2-Srw/profile-displaybackgroundimage-shrink_350_1400/0/1629284070126?e=1678924800&v=beta&t=baHer4haw8A7UbfPDvsLpafwZS1EcbgDw47tvqhnjgc)
 
-- 🌱 I’m currently learning **Django Framework, React Js, AWS...**
+- I am Prathmesh Kasar. I am currently pursuing B-Tech computer science, Final year in R C Patel Institute Of Technology.
+- I am competitive programming Enthusiast, computer programmer with avid interest in Data Structures, Algorithms and Optimization and a quick learner who loves problem solving, web development and always willing to learn and grow more.
+- Hand-on-experience in backend development (Django/python) and Implementation.
+- Solid Programming expertise in:
+1) Python
+2) C/C++
+3)HTML,CSS,JavaScript
+- A fast learner with good coding and communication skills.
+-Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
 
-- 💬 Ask me about **Python**
+Skills: Python / Django / REACT / JS / HTML / CSS
 
-- 📫 How to reach me **kasarprathmesh18@gmail.com**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning AWS , React Js. .. 
+- 👯 I’m looking to collaborate on Github 
+- 📫 How to reach me: https://www.linkedin.com/in/prathmesh-kasar-747153206/ 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13HxXWthdHUWCl9tA9eSrPEePuU-grEMS/view?usp=share_link](https://drive.google.com/file/d/13HxXWthdHUWCl9tA9eSrPEePuU-grEMS/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prathmesh kasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh kasar" height="30" width="40" /></a>
-<a href="https://instagram.com/prathmesh_kasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathmesh_kasar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kasarprathmesh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kasarprathmesh18" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Prathm18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prathmesh-kasar-747153206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathm18)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathm18&show_icons=true&locale=en&layout=compact" alt="prathm18" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathm18&show_icons=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathm18&show_icons=true&locale=en" alt="prathm18" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prathm18)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathm18&" alt="prathm18" /></p>
+![GitHub metrics](https://metrics.lecoq.io/Prathm18)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Prathm18)  
+
+![Profile views](https://gpvc.arturio.dev/Prathm18)  
