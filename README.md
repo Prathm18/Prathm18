@@ -20,8 +20,6 @@ Skills: Python / Django / REACT / JS / HTML / CSS
 - 📫 How to reach me: https://www.linkedin.com/in/prathmesh-kasar-747153206/ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/Prathm18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width='100'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prathmesh-kasar-747153206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.linkedin.com/in/prathmesh-kasar-747153206/)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathm18)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathm18&show_icons=true)  
